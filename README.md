@@ -22,7 +22,7 @@
 
 ### Implementation
 Entities
-    DB -> List <Record>
+    DB -> List(Record)
     Record(id, value, Embeddings)
     Index
     Embeddings
